@@ -2,17 +2,17 @@
     --laranja-claro: #FF862A;
 }
 
-body {
+.body {
     font-size: 1rem;
     font-family: 'Montserrat';
 }
 
-header {
+.header {
     background-color: #ffffff;
 }
 
 
-section {
+.section {
     padding-bottom: 5rem;
 }
 
@@ -24,7 +24,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/Beabadoobee_\(52518850626\).jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
